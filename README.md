@@ -1,54 +1,74 @@
-<<<<<<< HEAD
-# Welcome to your Expo app 👋
+📋 To-Do List App – React Native
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+📌 Internship Task 1 – Mini Project
 
-## Get started
+This project is a simple To-Do List Mobile Application developed using React Native as part of my Internship Task 1. The application helps users manage their daily tasks efficiently by allowing them to add, view, and track tasks in an organized interface.
 
-1. Install dependencies
+🚀 Features
 
-   ```bash
-   npm install
-   ```
+➕ Add new tasks
+📋 View task list
+✅ Mark tasks as completed
+🗑 Delete tasks
+🎨 Clean and modern UI
+📱 Mobile-friendly design
+⚡ Fast and responsive performance
+🛠 Tech Stack
 
-2. Start the app
+React Native
+JavaScript
+Expo
+React Native Components
+VS Code
+📂 Project Structure
 
-   ```bash
-   npx expo start
-   ```
+ToDoListApp │ ├── App.js ├── package.json ├── assets/ ├── components/ │ └── TaskItem.js ├── screens/ │ └── HomeScreen.js
 
-In the output, you'll find options to open the app in a
+▶️ How to Run the Project
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+1️⃣ Clone the repository
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+git clone https://github.com/your-username/todo-list-react-native.git
 
-## Get a fresh project
+2️⃣ Go to project folder
 
-When you're ready, run:
+cd todo-list-react-native
 
-```bash
-npm run reset-project
-```
+3️⃣ Install dependencies
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+npm install
 
-## Learn more
+4️⃣ Start the Expo server
 
-To learn more about developing your project with Expo, look at the following resources:
+npx expo start
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+5️⃣ Run the app using:
 
-## Join the community
+Expo Go (Android/iOS)
+Android Emulator
+iOS Simulator
+📸 App Preview
 
-Join our community of developers creating universal apps.
+You can add screenshots of the application UI here.
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
-=======
-# my-react-native-app
->>>>>>> 15721f39bf396b8f070bc7461954567e0357ab19
+Example:
+
+Home Screen
+Task List
+Add Task Screen
+🎯 Learning Outcomes
+
+Through this project, I learned:
+
+Basics of React Native development
+Creating mobile UI components
+Managing state in React
+Structuring a React Native project
+Building simple task management applications
+👨‍💻 Developed By
+
+Sadik Pathan React Native Developer (Beginner) Internship Task Submission
+
+📄 License
+
+This project is created for educational and internship purposes only.
