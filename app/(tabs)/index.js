@@ -12,7 +12,6 @@ import {
 export default function TodoApp() {
   const [task, setTask] = useState('');
   const [tasks, setTasks] = useState([]);
-
   const addTask = () => {
     if (task.trim().length === 0) return;
 
